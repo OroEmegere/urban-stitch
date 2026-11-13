@@ -1,12 +1,12 @@
-import tee1 from '../assets/images/tee1.jpg'
-import beanie from '../assets/images/beanie.jpg'
-import diaz from '../assets/images/diaz.jpg'
-import active from '../assets/images/active.jpg'
-import port from '../assets/images/port.jpg'
-import sneakers from '../assets/images/sneakers.jpg'
-import casual from '../assets/images/casual.jpg'
-import suit from '../assets/images/suit.jpg'
-import sweats from '../assets/images/sweats.jpg'
+import tee1 from '../assets/Images/tee1.jpg'
+import beanie from '../assets/Images/beanie.jpg'
+import diaz from '../assets/Images/diaz.jpg'
+import active from '../assets/Images/active.jpg'
+import port from '../assets/Images/port.jpg'
+import sneakers from '../assets/Images/sneakers.jpg'
+import casual from '../assets/Images/casual.jpg'
+import suit from '../assets/Images/suit.jpg'
+import sweats from '../assets/Images/sweats.jpg'
 
 const products = [
   { id: 1, name: 'Nigeria Tee', price: 8500, category: 'Tees',

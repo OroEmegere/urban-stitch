@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import products from '../data/products'
-import heroImg from '../assets/images/suit.jpg'
+import heroImg from '../assets/Images/suit.jpg'
 
 const tips = [
   'Pair neutral tones with one bold accessory.',
