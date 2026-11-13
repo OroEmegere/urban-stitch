@@ -42,7 +42,7 @@ function Contact() {
       <div className="contact-layout">
         <div className="contact-info">
           <h2>Get in touch</h2>
-          <p>Email: hello@urbanstitch.example</p>
+          <p>Email: hello@xerxesfits.example</p>
           <p>Phone: +234 800 000 0000</p>
           <p>Address: 12 Fashion Avenue, Lagos (sample address)</p>
           <p>Hours: Mon to Sat, 9am to 6pm</p>

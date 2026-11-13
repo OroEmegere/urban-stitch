@@ -7,7 +7,7 @@ function Navbar({ cartCount }) {
 
   return (
     <header className="navbar">
-      <NavLink to="/" className="logo" onClick={close}>Urban Stitch</NavLink>
+      <NavLink to="/" className="logo" onClick={close}>XerXes Fits</NavLink>
 
       <button className="menu-btn" onClick={() => setOpen(!open)} aria-label="Toggle menu">
         {open ? '✕' : '☰'}

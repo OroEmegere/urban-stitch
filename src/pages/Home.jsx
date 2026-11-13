@@ -17,7 +17,7 @@ function Home() {
     <>
       <section className="hero">
         <div className="hero-text">
-          <h1>Welcome to Urban Stitch</h1>
+          <h1>Welcome to XerXes Fits</h1>
           <p>
             Modern, affordable fashion for everyday confidence. We design and sell
             clothing for men and women, with new pieces every month.

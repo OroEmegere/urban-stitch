@@ -9,16 +9,16 @@ const values = [
 function About() {
   return (
     <section className="container">
-      <h1>About Urban Stitch</h1>
+      <h1>About XerXes Fits</h1>
       <p>
-        Urban Stitch is a fashion brand that designs and sells ready-to-wear
+        XerXes Fits is a fashion brand that designs and sells ready-to-wear
         clothing and accessories for men and women.
       </p>
 
       <h2>Our Story</h2>
       <p>
         Founded in 2020 by a small team of designers who wanted stylish clothes
-        without the high price tag, Urban Stitch started in a small studio and now
+        without the high price tag, XerXes Fits started in a small studio and now
         serves customers across the country online.
       </p>
 
